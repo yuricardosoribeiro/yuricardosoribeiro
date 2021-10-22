@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Yuri Cardoso!
 
 <div style="display: inline_block">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=yuricardosoribeiro&show_icons=true&theme=dark">
-  <img height="170em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricardosoribeiro&exclude_repo=github-readme-stats&theme=dark">
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=yuricardosoribeiro&show_icons=true&theme=dark"> <br>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricardosoribeiro&exclude_repo=github-readme-stats&theme=dark">
 </div> <br>
 
 <div style="display: inline_block">
